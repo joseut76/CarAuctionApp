@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+y8UYGE+Y73DZ9A6brp70aMJbO8n3A0SrHYP611IuMANZBWphw89MAfVj1Mn42gKobS6BbK4/lwcNfvLq9dcpw==",
+  "dgSpecHash": "HdglqvVUEMkqywC9l/Q/HmttDzldl3CftVZ9KH4j5GoN6q9zNXMDKt58lXHN3y6dq9oVfl8m1NQtEk65niei/w==",
   "success": true,
-  "projectFilePath": "/Users/joseperdomo/Documents/Workspace/NET/Carsties/src/AuctionService/AuctionService.csproj",
+  "projectFilePath": "/Users/joseperdomo/Documents/Workspace/NET/CarAuctionApp/src/AuctionService/AuctionService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
