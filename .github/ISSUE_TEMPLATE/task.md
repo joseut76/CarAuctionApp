@@ -11,9 +11,10 @@ Epic:
 
 Story:
 
-### This relates to: 
+This relates to: 
 
 ### Current Situation:
+[Example xxx]
 
 ### Desired Situation:
 
