@@ -37,4 +37,7 @@ body:
     id: definition-of-done
     attributes:
       label: "Definition of 'Done':"
-      description: List of tasks required to consider the issue resolved     
+      description: List of tasks required to consider the issue resolved
+  - type: markdown
+    attributes:
+      value: "Thanks for completing our form!"
