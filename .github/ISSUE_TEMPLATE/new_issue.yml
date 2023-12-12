@@ -40,6 +40,6 @@ body:
       description: List of tasks required to consider the issue resolved
   - type: markdown
     attributes:
-      label: "Definition of 'Done':"
+      # label: "Definition of 'Done':"
       value: | 
         "Please enter the required tasks for this issue"
