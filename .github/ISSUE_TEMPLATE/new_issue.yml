@@ -39,5 +39,8 @@ body:
       label: "Definition of 'Done':"
       description: List of tasks required to consider the issue resolved
       placeholder: | 
-        -[ ]   
+        -[ ] Task 1
+        -[ ] Task 2
+        -[ ] Task 3
+        ....
   
