@@ -37,10 +37,5 @@ body:
     id: definition-of-done
     attributes:
       label: "Definition of 'Done':"
-      description: List of tasks required to consider the issue resolved
-      placeholder: | 
-        -[ ] Task 1
-        -[ ] Task 2
-        -[ ] Task 3
-        ....
-  
+      description: List all the tasks that are required to consider the issue resolved
+      placeholder: "Use the `Task List` tool to list required tasks
