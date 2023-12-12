@@ -41,4 +41,5 @@ body:
   - type: markdown
     attributes:
       label: "Definition of 'Done':"
-      value: | "Please enter the required tasks for this issue"
+      value: | 
+        "Please enter the required tasks for this issue"
