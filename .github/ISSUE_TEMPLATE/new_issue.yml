@@ -36,11 +36,11 @@ body:
       # value: "A solution is needed!"
     validations:
       required: false
-  - type: checkboxes
+  - type: textarea
     id: definition-of-done
     attributes:
       label: "Definition of 'Done':"
       description: List of tasks required to consider the issue resolved
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      # options:
+      #   - label: I agree to follow this project's Code of Conduct
+          required: false
