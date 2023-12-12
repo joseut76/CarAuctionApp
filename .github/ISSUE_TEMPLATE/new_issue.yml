@@ -19,7 +19,7 @@ body:
   - type: textarea
     id: desired-situation
     attributes:
-      label: Desired Situation
+      label: "Desired Situation:"
       description: Desired outcome
       placeholder: What would you like to achieve? 
                   Please attach any files that may help describe the problem
@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: proposed-solution
     attributes:
-      label: Proposed Solution
+      label: "Proposed Solution:"
       description: Suggestion to solve this issue
       placeholder: What do you suggest to solve this issue? 
                   Please attach any files that may help describe the problem
@@ -39,7 +39,7 @@ body:
   - type: checkboxes
     id: definition-of-done
     attributes:
-      label: Definition of Done
+      label: "Definition of 'Done':"
       description: List of tasks required to consider the issue resolved
       options:
         - label: I agree to follow this project's Code of Conduct
