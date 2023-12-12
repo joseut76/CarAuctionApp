@@ -12,8 +12,7 @@ body:
       label: "Current Situation:"
       description: Current problem that needs to be addressed
       placeholder: What is the current situation? 
-                  Please attach any files that may help describe the problem
-      # value: "A solution is needed!"
+                  Please attach any files that may help describe the problem     
     validations:
       required: true
   - type: textarea
@@ -22,8 +21,7 @@ body:
       label: "Desired Situation:"
       description: Desired outcome
       placeholder: What would you like to achieve? 
-                  Please attach any files that may help describe the problem
-      # value: "A solution is needed!"
+                  Please attach any files that may help describe the problem     
     validations:
       required: true
   - type: textarea
@@ -32,15 +30,11 @@ body:
       label: "Proposed Solution:"
       description: Suggestion to solve this issue
       placeholder: What do you suggest to solve this issue? 
-                  Please attach any files that may help describe the problem
-      # value: "A solution is needed!"
+                  Please attach any files that may help describe the problem      
     validations:
       required: false
   - type: textarea
     id: definition-of-done
     attributes:
       label: "Definition of 'Done':"
-      description: List of tasks required to consider the issue resolved
-      # options:
-      #   - label: I agree to follow this project's Code of Conduct
-          required: false
+      description: List of tasks required to consider the issue resolved     
