@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: current-situation
     attributes:
-      label: Current Situation
+      label: "Current Situation:"
       description: Current problem that needs to be addressed
       placeholder: What is the current situation? 
                   Please attach any files that may help describe the problem
