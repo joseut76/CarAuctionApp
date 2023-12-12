@@ -40,4 +40,5 @@ body:
       description: List of tasks required to consider the issue resolved
   - type: markdown
     attributes:
-      value: "Thanks for completing our form!"
+      label: "Definition of 'Done':"
+      value: | "Please enter the required tasks for this issue"
