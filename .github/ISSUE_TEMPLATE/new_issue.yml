@@ -1,0 +1,46 @@
+name: New Issue
+description: Form to describe new issue
+title: "[Issue]: "
+labels: ["task"]
+projects: [ ]
+assignees:
+  - [ ]
+body:
+   - type: textarea
+    id: current-situation
+    attributes:
+      label: Current Situation:
+      description: Current problem that needs to be addressed
+      placeholder: What is the current situation? 
+                  Please attach any files that may help describe the problem
+      # value: "A solution is needed!"
+    validations:
+      required: true
+   - type: textarea
+    id: desired-situation
+    attributes:
+      label: Desired Situation:
+      description: Desired outcome
+      placeholder: What would you like to achieve? 
+                  Please attach any files that may help describe the problem
+      # value: "A solution is needed!"
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution:
+      description: Suggestion to solve this issue
+      placeholder: What do you suggest to solve this issue? 
+                  Please attach any files that may help describe the problem
+      # value: "A solution is needed!"
+    validations:
+      required: false
+  - type: checkboxes
+    id: definition-of-done
+    attributes:
+      label: Definition of Done
+      description: List of tasks required to consider the issue resolved
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
