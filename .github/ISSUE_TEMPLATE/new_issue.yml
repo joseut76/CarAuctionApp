@@ -38,4 +38,4 @@ body:
     attributes:
       label: "Definition of 'Done':"
       description: List all the tasks that are required to consider the issue resolved
-      placeholder: "Use the `Task List` tool to list required tasks
+      placeholder: "Use the `Task List` tool to list required tasks"
