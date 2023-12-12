@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: current-situation
     attributes:
-      label: Current Situation:
+      label: Current Situation
       description: Current problem that needs to be addressed
       placeholder: What is the current situation? 
                   Please attach any files that may help describe the problem
@@ -19,7 +19,7 @@ body:
   - type: textarea
     id: desired-situation
     attributes:
-      label: Desired Situation:
+      label: Desired Situation
       description: Desired outcome
       placeholder: What would you like to achieve? 
                   Please attach any files that may help describe the problem
@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: proposed-solution
     attributes:
-      label: Proposed Solution:
+      label: Proposed Solution
       description: Suggestion to solve this issue
       placeholder: What do you suggest to solve this issue? 
                   Please attach any files that may help describe the problem
