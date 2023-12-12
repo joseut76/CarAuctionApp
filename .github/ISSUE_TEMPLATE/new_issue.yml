@@ -6,7 +6,7 @@ projects: [ ]
 assignees:
   - [ ]
 body:
-   - type: textarea
+  - type: textarea
     id: current-situation
     attributes:
       label: Current Situation:
@@ -16,7 +16,7 @@ body:
       # value: "A solution is needed!"
     validations:
       required: true
-   - type: textarea
+  - type: textarea
     id: desired-situation
     attributes:
       label: Desired Situation:
