@@ -38,9 +38,6 @@ body:
     attributes:
       label: "Definition of 'Done':"
       description: List of tasks required to consider the issue resolved
-  - type: markdown
-    attributes:      
-      value: |  
-        - [ ]
-        - [ ]
-        ...
+      placeholder: | 
+        -[ ]   
+  
